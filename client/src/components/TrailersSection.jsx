@@ -31,6 +31,8 @@ const TrailersSection = () => {
           left-1/2 w-5 md:w-8 h-5 md:h-12 transform -translate-x-1/2
           -translate-y-1/2'/> 
         </div>
+
+        
       ))}
       </div>
     </div>
